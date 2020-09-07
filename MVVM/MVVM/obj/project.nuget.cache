@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bgff5oxc0zilXWkn9aCNEK4m27JK+jBrJehQYk298KaSqzNXrHHpw56Z3ZiB/Xic1su8K0X5+bz7ziOz2pCgMQ==",
+  "success": true,
+  "projectFilePath": "W:\\programs\\git_repos\\testGitRepos\\StudRepos\\MVVM\\MVVM\\MVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marshall\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
